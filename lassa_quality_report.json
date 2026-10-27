@@ -1,0 +1,32 @@
+{
+  "source_id": "ncdc_lassa_hf_2020_2025_v1",
+  "retrieved_at_utc": "2026-10-27T08:27:24.342259+00:00",
+  "raw_file_sha256": "72988e6747d40b9ccd89df0435fe659ee40beab5955cd4f551e706c5e51b1f70",
+  "rows_downloaded": 307,
+  "dataset_viewer_row_count_seen_during_source_review": 614,
+  "duplicate_epi_year_week_rows": 0,
+  "invalid_date_values": 0,
+  "negative_count_values": {
+    "suspected_cases": 0,
+    "confirmed_cases": 0,
+    "probable_cases": 0,
+    "deaths": 0
+  },
+  "confirmed_exceeds_suspected_rows": 0,
+  "missing_values_by_column": {
+    "week_start_date": 0,
+    "week_end_date": 0,
+    "epi_year": 0,
+    "epi_week": 0,
+    "suspected_cases": 0,
+    "confirmed_cases": 0,
+    "probable_cases": 0,
+    "deaths": 0,
+    "extraction_method": 0,
+    "extraction_timestamp": 0,
+    "report_pdf_url": 0
+  },
+  "missing_week_start_dates_not_imputed": [],
+  "ncdc_weekly_archive_for_manual_verification": "https://ncdc.gov.ng/reports/weekly",
+  "interpretation_warning": "Three selected weeks match the NCDC current-week table; further source reconciliation is required before operational use."
+}
